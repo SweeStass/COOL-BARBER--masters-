@@ -242,16 +242,13 @@ padding-top: 90px;
 
 /* BUTTON  */
 .button {
-   align-items: center;
-   
-   
+   align-items: center;   
 }
 
 .see__all {
    background: #FF6E40;
    border: none;
-   margin-left: 461px;
-   
+   margin-left: 461px;   
 }
 
 .see__all__works {
